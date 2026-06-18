@@ -1,0 +1,10 @@
+id,product,category,quantity,price
+1,Laptop,Electronics,2,50000
+2,Phone,Electronics,3,20000
+3,Shirt,Fashion,5,1000
+4,Shoes,Fashion,2,2000
+5,Laptop,Electronics,1,50000
+6,Watch,Fashion,4,1500
+7,Phone,Electronics,2,20000
+8,Book,Education,10,500
+9,Book,Education,5,500
